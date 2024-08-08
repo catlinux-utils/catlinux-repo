@@ -1,5 +1,5 @@
 # catlinux-repo
-
+/etc/pacman.conf:
 ```
 [catlinux]
 SigLevel = Optional TrustAll
