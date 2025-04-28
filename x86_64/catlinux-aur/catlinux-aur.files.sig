@@ -1,0 +1,1 @@
+catlinux-aur.files.tar.gz.sig

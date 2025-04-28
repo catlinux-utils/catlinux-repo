@@ -1,0 +1,1 @@
+catlinux-aur.db.tar.gz.sig
